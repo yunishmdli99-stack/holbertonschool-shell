@@ -1,2 +1,1 @@
-# holbertonschool-shell
-very good repository indeed
+Shell project
